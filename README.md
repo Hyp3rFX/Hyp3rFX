@@ -1,5 +1,5 @@
 Hi, I'm HyperFX.
-I'm a hobbist editor/graphic designer.
+I'm a hobbyist editor/graphic designer.
 
 
 
