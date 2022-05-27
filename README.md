@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/Hyp3rFX"><img src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/logo/Hyp3rFX_banner.png" width="546" alt="HyperFX"/></a>
+    <a href="https://github.com/Hyp3rFX"><img src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/logo/Hyp3rFX_banner.png" width="1920" alt="HyperFX"/></a>
   </p>
 </div>
 
@@ -11,13 +11,19 @@ Hello I'm HyperFX, an editor, graphic designer, and coder from the US. Additiona
 
 ## Links
 
-<a href="https://www.behance.net/hyperfxstudios/"><img height="20" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/Behance.png"></a>
-<a href="https://www.instagram.com/_hyp3rfx/"><img height="20" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/Instagram.png">
-</a><a href="https://www.youtube.com/channel/UCxidPXekT91wbgq1iXlktuQ"><img height="20" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/YouTube.png"></a>
+<a href="https://www.instagram.com/_hyp3rfx/">
+  <img align="center" alt="HyperFX " width="50px" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/Instagram.png" />
+</a>
+<a href="https://www.behance.net/hyperfxstudios/">
+  <img align="center" alt="HyperFX " width="50px" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/Behance.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCxidPXekT91wbgq1iXlktuQ">
+  <img align="center" alt="HyperFX " width="50px" src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/YouTube.png" />
+</a>
 
 ## Skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
