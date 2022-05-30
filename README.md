@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/Hyp3rFX"><img src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/logo/Hyp3rFX_banner.png" width="1920" alt="HyperFX"/></a>
+    <a href="https://github.com/Hyp3rFX"><img src="https://github.com/Hyp3rFX/Hyp3rFX/blob/main/media/logo/Hyp3rFX.png" width="1920" alt="HyperFX"/></a>
   </p>
 </div>
 
